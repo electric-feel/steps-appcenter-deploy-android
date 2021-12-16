@@ -10,7 +10,7 @@ github.com/bitrise-io/go-utils/log
 github.com/bitrise-io/go-utils/parseutil
 github.com/bitrise-io/go-utils/pathutil
 github.com/bitrise-io/go-utils/pointers
-# github.com/electric-feel/appcenter v0.0.0-20210623124750-96f2fcd8d5af
+# github.com/electric-feel/appcenter v0.0.0-20211215101628-c735f659507f
 ## explicit
 github.com/electric-feel/appcenter
 github.com/electric-feel/appcenter/client
@@ -19,7 +19,6 @@ github.com/electric-feel/appcenter/util
 # github.com/hashicorp/go-cleanhttp v0.5.1
 github.com/hashicorp/go-cleanhttp
 # github.com/hashicorp/go-retryablehttp v0.6.6
-## explicit
 github.com/hashicorp/go-retryablehttp
 # github.com/kr/pretty v0.1.0
 ## explicit
